@@ -1,0 +1,53 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all JSON files
+*.json
+
+# Ignore all directories with "checkpoint" in the name (any depth)
+**/*checkpoint*/
+
+# wandb logging folder
+wandb/
+
+# Virtual environment folders
+.env/
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# MacOS metadata files
+.DS_Store
+
+# Model weights or large binary blobs
+*.pth
+*.pt
+*.ckpt
+
+# Ignore output folders (optional, add/remove as needed)
+outputs/
+runs/
+checkpoints/
+Infer/
+logs/
+pretrained_model/
+temp_low/
+temp_recon/
+data/
+cache/
