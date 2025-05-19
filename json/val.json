@@ -1,0 +1,2261 @@
+[
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01270/BraTS2021_01270_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01270/BraTS2021_01270_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01270/BraTS2021_01270_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01270/BraTS2021_01270_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01270/BraTS2021_01270_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01002/BraTS2021_01002_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01002/BraTS2021_01002_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01002/BraTS2021_01002_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01002/BraTS2021_01002_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01002/BraTS2021_01002_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00120/BraTS2021_00120_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00120/BraTS2021_00120_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00120/BraTS2021_00120_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00120/BraTS2021_00120_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00120/BraTS2021_00120_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01137/BraTS2021_01137_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01137/BraTS2021_01137_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01137/BraTS2021_01137_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01137/BraTS2021_01137_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01137/BraTS2021_01137_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00035/BraTS2021_00035_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00035/BraTS2021_00035_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00035/BraTS2021_00035_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00035/BraTS2021_00035_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00035/BraTS2021_00035_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01276/BraTS2021_01276_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01276/BraTS2021_01276_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01276/BraTS2021_01276_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01276/BraTS2021_01276_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01276/BraTS2021_01276_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00651/BraTS2021_00651_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00651/BraTS2021_00651_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00651/BraTS2021_00651_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00651/BraTS2021_00651_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00651/BraTS2021_00651_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01541/BraTS2021_01541_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01541/BraTS2021_01541_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01541/BraTS2021_01541_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01541/BraTS2021_01541_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01541/BraTS2021_01541_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01623/BraTS2021_01623_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01623/BraTS2021_01623_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01623/BraTS2021_01623_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01623/BraTS2021_01623_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01623/BraTS2021_01623_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00356/BraTS2021_00356_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00356/BraTS2021_00356_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00356/BraTS2021_00356_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00356/BraTS2021_00356_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00356/BraTS2021_00356_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01520/BraTS2021_01520_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01520/BraTS2021_01520_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01520/BraTS2021_01520_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01520/BraTS2021_01520_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01520/BraTS2021_01520_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00581/BraTS2021_00581_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00581/BraTS2021_00581_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00581/BraTS2021_00581_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00581/BraTS2021_00581_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00581/BraTS2021_00581_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01565/BraTS2021_01565_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01565/BraTS2021_01565_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01565/BraTS2021_01565_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01565/BraTS2021_01565_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01565/BraTS2021_01565_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01204/BraTS2021_01204_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01204/BraTS2021_01204_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01204/BraTS2021_01204_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01204/BraTS2021_01204_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01204/BraTS2021_01204_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01479/BraTS2021_01479_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01479/BraTS2021_01479_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01479/BraTS2021_01479_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01479/BraTS2021_01479_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01479/BraTS2021_01479_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01210/BraTS2021_01210_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01210/BraTS2021_01210_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01210/BraTS2021_01210_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01210/BraTS2021_01210_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01210/BraTS2021_01210_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00158/BraTS2021_00158_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00158/BraTS2021_00158_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00158/BraTS2021_00158_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00158/BraTS2021_00158_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00158/BraTS2021_00158_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00577/BraTS2021_00577_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00577/BraTS2021_00577_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00577/BraTS2021_00577_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00577/BraTS2021_00577_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00577/BraTS2021_00577_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00165/BraTS2021_00165_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00165/BraTS2021_00165_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00165/BraTS2021_00165_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00165/BraTS2021_00165_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00165/BraTS2021_00165_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01459/BraTS2021_01459_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01459/BraTS2021_01459_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01459/BraTS2021_01459_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01459/BraTS2021_01459_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01459/BraTS2021_01459_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01655/BraTS2021_01655_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01655/BraTS2021_01655_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01655/BraTS2021_01655_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01655/BraTS2021_01655_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01655/BraTS2021_01655_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01247/BraTS2021_01247_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01247/BraTS2021_01247_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01247/BraTS2021_01247_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01247/BraTS2021_01247_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01247/BraTS2021_01247_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01062/BraTS2021_01062_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01062/BraTS2021_01062_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01062/BraTS2021_01062_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01062/BraTS2021_01062_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01062/BraTS2021_01062_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01150/BraTS2021_01150_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01150/BraTS2021_01150_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01150/BraTS2021_01150_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01150/BraTS2021_01150_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01150/BraTS2021_01150_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01263/BraTS2021_01263_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01263/BraTS2021_01263_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01263/BraTS2021_01263_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01263/BraTS2021_01263_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01263/BraTS2021_01263_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00692/BraTS2021_00692_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00692/BraTS2021_00692_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00692/BraTS2021_00692_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00692/BraTS2021_00692_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00692/BraTS2021_00692_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00563/BraTS2021_00563_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00563/BraTS2021_00563_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00563/BraTS2021_00563_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00563/BraTS2021_00563_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00563/BraTS2021_00563_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00149/BraTS2021_00149_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00149/BraTS2021_00149_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00149/BraTS2021_00149_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00149/BraTS2021_00149_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00149/BraTS2021_00149_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01475/BraTS2021_01475_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01475/BraTS2021_01475_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01475/BraTS2021_01475_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01475/BraTS2021_01475_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01475/BraTS2021_01475_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01025/BraTS2021_01025_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01025/BraTS2021_01025_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01025/BraTS2021_01025_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01025/BraTS2021_01025_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01025/BraTS2021_01025_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01260/BraTS2021_01260_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01260/BraTS2021_01260_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01260/BraTS2021_01260_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01260/BraTS2021_01260_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01260/BraTS2021_01260_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01191/BraTS2021_01191_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01191/BraTS2021_01191_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01191/BraTS2021_01191_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01191/BraTS2021_01191_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01191/BraTS2021_01191_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00028/BraTS2021_00028_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00028/BraTS2021_00028_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00028/BraTS2021_00028_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00028/BraTS2021_00028_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00028/BraTS2021_00028_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01468/BraTS2021_01468_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01468/BraTS2021_01468_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01468/BraTS2021_01468_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01468/BraTS2021_01468_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01468/BraTS2021_01468_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01132/BraTS2021_01132_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01132/BraTS2021_01132_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01132/BraTS2021_01132_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01132/BraTS2021_01132_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01132/BraTS2021_01132_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01152/BraTS2021_01152_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01152/BraTS2021_01152_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01152/BraTS2021_01152_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01152/BraTS2021_01152_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01152/BraTS2021_01152_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01043/BraTS2021_01043_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01043/BraTS2021_01043_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01043/BraTS2021_01043_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01043/BraTS2021_01043_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01043/BraTS2021_01043_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01346/BraTS2021_01346_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01346/BraTS2021_01346_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01346/BraTS2021_01346_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01346/BraTS2021_01346_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01346/BraTS2021_01346_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00709/BraTS2021_00709_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00709/BraTS2021_00709_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00709/BraTS2021_00709_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00709/BraTS2021_00709_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00709/BraTS2021_00709_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00318/BraTS2021_00318_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00318/BraTS2021_00318_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00318/BraTS2021_00318_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00318/BraTS2021_00318_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00318/BraTS2021_00318_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00442/BraTS2021_00442_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00442/BraTS2021_00442_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00442/BraTS2021_00442_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00442/BraTS2021_00442_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00442/BraTS2021_00442_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01241/BraTS2021_01241_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01241/BraTS2021_01241_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01241/BraTS2021_01241_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01241/BraTS2021_01241_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01241/BraTS2021_01241_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01290/BraTS2021_01290_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01290/BraTS2021_01290_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01290/BraTS2021_01290_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01290/BraTS2021_01290_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01290/BraTS2021_01290_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01606/BraTS2021_01606_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01606/BraTS2021_01606_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01606/BraTS2021_01606_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01606/BraTS2021_01606_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01606/BraTS2021_01606_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00263/BraTS2021_00263_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00263/BraTS2021_00263_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00263/BraTS2021_00263_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00263/BraTS2021_00263_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00263/BraTS2021_00263_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01506/BraTS2021_01506_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01506/BraTS2021_01506_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01506/BraTS2021_01506_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01506/BraTS2021_01506_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01506/BraTS2021_01506_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00512/BraTS2021_00512_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00512/BraTS2021_00512_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00512/BraTS2021_00512_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00512/BraTS2021_00512_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00512/BraTS2021_00512_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00314/BraTS2021_00314_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00314/BraTS2021_00314_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00314/BraTS2021_00314_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00314/BraTS2021_00314_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00314/BraTS2021_00314_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00733/BraTS2021_00733_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00733/BraTS2021_00733_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00733/BraTS2021_00733_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00733/BraTS2021_00733_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00733/BraTS2021_00733_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01509/BraTS2021_01509_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01509/BraTS2021_01509_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01509/BraTS2021_01509_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01509/BraTS2021_01509_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01509/BraTS2021_01509_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00341/BraTS2021_00341_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00341/BraTS2021_00341_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00341/BraTS2021_00341_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00341/BraTS2021_00341_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00341/BraTS2021_00341_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00628/BraTS2021_00628_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00628/BraTS2021_00628_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00628/BraTS2021_00628_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00628/BraTS2021_00628_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00628/BraTS2021_00628_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01218/BraTS2021_01218_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01218/BraTS2021_01218_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01218/BraTS2021_01218_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01218/BraTS2021_01218_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01218/BraTS2021_01218_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01399/BraTS2021_01399_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01399/BraTS2021_01399_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01399/BraTS2021_01399_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01399/BraTS2021_01399_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01399/BraTS2021_01399_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01628/BraTS2021_01628_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01628/BraTS2021_01628_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01628/BraTS2021_01628_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01628/BraTS2021_01628_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01628/BraTS2021_01628_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01604/BraTS2021_01604_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01604/BraTS2021_01604_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01604/BraTS2021_01604_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01604/BraTS2021_01604_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01604/BraTS2021_01604_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00019/BraTS2021_00019_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00019/BraTS2021_00019_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00019/BraTS2021_00019_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00019/BraTS2021_00019_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00019/BraTS2021_00019_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01418/BraTS2021_01418_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01418/BraTS2021_01418_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01418/BraTS2021_01418_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01418/BraTS2021_01418_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01418/BraTS2021_01418_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01470/BraTS2021_01470_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01470/BraTS2021_01470_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01470/BraTS2021_01470_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01470/BraTS2021_01470_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01470/BraTS2021_01470_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00808/BraTS2021_00808_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00808/BraTS2021_00808_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00808/BraTS2021_00808_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00808/BraTS2021_00808_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00808/BraTS2021_00808_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00582/BraTS2021_00582_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00582/BraTS2021_00582_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00582/BraTS2021_00582_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00582/BraTS2021_00582_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00582/BraTS2021_00582_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01403/BraTS2021_01403_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01403/BraTS2021_01403_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01403/BraTS2021_01403_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01403/BraTS2021_01403_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01403/BraTS2021_01403_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01593/BraTS2021_01593_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01593/BraTS2021_01593_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01593/BraTS2021_01593_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01593/BraTS2021_01593_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01593/BraTS2021_01593_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00433/BraTS2021_00433_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00433/BraTS2021_00433_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00433/BraTS2021_00433_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00433/BraTS2021_00433_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00433/BraTS2021_00433_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01619/BraTS2021_01619_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01619/BraTS2021_01619_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01619/BraTS2021_01619_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01619/BraTS2021_01619_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01619/BraTS2021_01619_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00523/BraTS2021_00523_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00523/BraTS2021_00523_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00523/BraTS2021_00523_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00523/BraTS2021_00523_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00523/BraTS2021_00523_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01265/BraTS2021_01265_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01265/BraTS2021_01265_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01265/BraTS2021_01265_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01265/BraTS2021_01265_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01265/BraTS2021_01265_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00134/BraTS2021_00134_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00134/BraTS2021_00134_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00134/BraTS2021_00134_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00134/BraTS2021_00134_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00134/BraTS2021_00134_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01243/BraTS2021_01243_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01243/BraTS2021_01243_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01243/BraTS2021_01243_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01243/BraTS2021_01243_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01243/BraTS2021_01243_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01454/BraTS2021_01454_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01454/BraTS2021_01454_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01454/BraTS2021_01454_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01454/BraTS2021_01454_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01454/BraTS2021_01454_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01469/BraTS2021_01469_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01469/BraTS2021_01469_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01469/BraTS2021_01469_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01469/BraTS2021_01469_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01469/BraTS2021_01469_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01303/BraTS2021_01303_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01303/BraTS2021_01303_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01303/BraTS2021_01303_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01303/BraTS2021_01303_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01303/BraTS2021_01303_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01376/BraTS2021_01376_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01376/BraTS2021_01376_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01376/BraTS2021_01376_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01376/BraTS2021_01376_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01376/BraTS2021_01376_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00499/BraTS2021_00499_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00499/BraTS2021_00499_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00499/BraTS2021_00499_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00499/BraTS2021_00499_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00499/BraTS2021_00499_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00397/BraTS2021_00397_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00397/BraTS2021_00397_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00397/BraTS2021_00397_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00397/BraTS2021_00397_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00397/BraTS2021_00397_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01424/BraTS2021_01424_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01424/BraTS2021_01424_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01424/BraTS2021_01424_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01424/BraTS2021_01424_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01424/BraTS2021_01424_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00757/BraTS2021_00757_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00757/BraTS2021_00757_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00757/BraTS2021_00757_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00757/BraTS2021_00757_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00757/BraTS2021_00757_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00061/BraTS2021_00061_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00061/BraTS2021_00061_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00061/BraTS2021_00061_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00061/BraTS2021_00061_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00061/BraTS2021_00061_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00124/BraTS2021_00124_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00124/BraTS2021_00124_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00124/BraTS2021_00124_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00124/BraTS2021_00124_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00124/BraTS2021_00124_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00449/BraTS2021_00449_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00449/BraTS2021_00449_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00449/BraTS2021_00449_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00449/BraTS2021_00449_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00449/BraTS2021_00449_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00493/BraTS2021_00493_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00493/BraTS2021_00493_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00493/BraTS2021_00493_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00493/BraTS2021_00493_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00493/BraTS2021_00493_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01266/BraTS2021_01266_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01266/BraTS2021_01266_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01266/BraTS2021_01266_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01266/BraTS2021_01266_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01266/BraTS2021_01266_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00157/BraTS2021_00157_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00157/BraTS2021_00157_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00157/BraTS2021_00157_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00157/BraTS2021_00157_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00157/BraTS2021_00157_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01341/BraTS2021_01341_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01341/BraTS2021_01341_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01341/BraTS2021_01341_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01341/BraTS2021_01341_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01341/BraTS2021_01341_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00667/BraTS2021_00667_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00667/BraTS2021_00667_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00667/BraTS2021_00667_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00667/BraTS2021_00667_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00667/BraTS2021_00667_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01647/BraTS2021_01647_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01647/BraTS2021_01647_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01647/BraTS2021_01647_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01647/BraTS2021_01647_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01647/BraTS2021_01647_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01633/BraTS2021_01633_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01633/BraTS2021_01633_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01633/BraTS2021_01633_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01633/BraTS2021_01633_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01633/BraTS2021_01633_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01570/BraTS2021_01570_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01570/BraTS2021_01570_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01570/BraTS2021_01570_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01570/BraTS2021_01570_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01570/BraTS2021_01570_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01001/BraTS2021_01001_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01001/BraTS2021_01001_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01001/BraTS2021_01001_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01001/BraTS2021_01001_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01001/BraTS2021_01001_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01189/BraTS2021_01189_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01189/BraTS2021_01189_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01189/BraTS2021_01189_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01189/BraTS2021_01189_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01189/BraTS2021_01189_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01512/BraTS2021_01512_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01512/BraTS2021_01512_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01512/BraTS2021_01512_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01512/BraTS2021_01512_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01512/BraTS2021_01512_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00046/BraTS2021_00046_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00046/BraTS2021_00046_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00046/BraTS2021_00046_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00046/BraTS2021_00046_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00046/BraTS2021_00046_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01534/BraTS2021_01534_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01534/BraTS2021_01534_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01534/BraTS2021_01534_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01534/BraTS2021_01534_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01534/BraTS2021_01534_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00839/BraTS2021_00839_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00839/BraTS2021_00839_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00839/BraTS2021_00839_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00839/BraTS2021_00839_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00839/BraTS2021_00839_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00192/BraTS2021_00192_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00192/BraTS2021_00192_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00192/BraTS2021_00192_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00192/BraTS2021_00192_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00192/BraTS2021_00192_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01215/BraTS2021_01215_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01215/BraTS2021_01215_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01215/BraTS2021_01215_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01215/BraTS2021_01215_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01215/BraTS2021_01215_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00403/BraTS2021_00403_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00403/BraTS2021_00403_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00403/BraTS2021_00403_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00403/BraTS2021_00403_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00403/BraTS2021_00403_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01516/BraTS2021_01516_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01516/BraTS2021_01516_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01516/BraTS2021_01516_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01516/BraTS2021_01516_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01516/BraTS2021_01516_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00724/BraTS2021_00724_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00724/BraTS2021_00724_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00724/BraTS2021_00724_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00724/BraTS2021_00724_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00724/BraTS2021_00724_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00292/BraTS2021_00292_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00292/BraTS2021_00292_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00292/BraTS2021_00292_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00292/BraTS2021_00292_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00292/BraTS2021_00292_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00270/BraTS2021_00270_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00270/BraTS2021_00270_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00270/BraTS2021_00270_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00270/BraTS2021_00270_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00270/BraTS2021_00270_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01597/BraTS2021_01597_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01597/BraTS2021_01597_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01597/BraTS2021_01597_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01597/BraTS2021_01597_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01597/BraTS2021_01597_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00148/BraTS2021_00148_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00148/BraTS2021_00148_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00148/BraTS2021_00148_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00148/BraTS2021_00148_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00148/BraTS2021_00148_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01211/BraTS2021_01211_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01211/BraTS2021_01211_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01211/BraTS2021_01211_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01211/BraTS2021_01211_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01211/BraTS2021_01211_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00619/BraTS2021_00619_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00619/BraTS2021_00619_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00619/BraTS2021_00619_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00619/BraTS2021_00619_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00619/BraTS2021_00619_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01433/BraTS2021_01433_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01433/BraTS2021_01433_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01433/BraTS2021_01433_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01433/BraTS2021_01433_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01433/BraTS2021_01433_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01041/BraTS2021_01041_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01041/BraTS2021_01041_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01041/BraTS2021_01041_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01041/BraTS2021_01041_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01041/BraTS2021_01041_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01268/BraTS2021_01268_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01268/BraTS2021_01268_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01268/BraTS2021_01268_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01268/BraTS2021_01268_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01268/BraTS2021_01268_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00130/BraTS2021_00130_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00130/BraTS2021_00130_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00130/BraTS2021_00130_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00130/BraTS2021_00130_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00130/BraTS2021_00130_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00488/BraTS2021_00488_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00488/BraTS2021_00488_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00488/BraTS2021_00488_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00488/BraTS2021_00488_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00488/BraTS2021_00488_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01569/BraTS2021_01569_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01569/BraTS2021_01569_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01569/BraTS2021_01569_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01569/BraTS2021_01569_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01569/BraTS2021_01569_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01442/BraTS2021_01442_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01442/BraTS2021_01442_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01442/BraTS2021_01442_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01442/BraTS2021_01442_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01442/BraTS2021_01442_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00036/BraTS2021_00036_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00036/BraTS2021_00036_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00036/BraTS2021_00036_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00036/BraTS2021_00036_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00036/BraTS2021_00036_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01620/BraTS2021_01620_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01620/BraTS2021_01620_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01620/BraTS2021_01620_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01620/BraTS2021_01620_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01620/BraTS2021_01620_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01240/BraTS2021_01240_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01240/BraTS2021_01240_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01240/BraTS2021_01240_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01240/BraTS2021_01240_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01240/BraTS2021_01240_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00470/BraTS2021_00470_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00470/BraTS2021_00470_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00470/BraTS2021_00470_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00470/BraTS2021_00470_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00470/BraTS2021_00470_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01497/BraTS2021_01497_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01497/BraTS2021_01497_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01497/BraTS2021_01497_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01497/BraTS2021_01497_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01497/BraTS2021_01497_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01642/BraTS2021_01642_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01642/BraTS2021_01642_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01642/BraTS2021_01642_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01642/BraTS2021_01642_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01642/BraTS2021_01642_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01184/BraTS2021_01184_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01184/BraTS2021_01184_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01184/BraTS2021_01184_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01184/BraTS2021_01184_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01184/BraTS2021_01184_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00418/BraTS2021_00418_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00418/BraTS2021_00418_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00418/BraTS2021_00418_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00418/BraTS2021_00418_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00418/BraTS2021_00418_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00578/BraTS2021_00578_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00578/BraTS2021_00578_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00578/BraTS2021_00578_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00578/BraTS2021_00578_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00578/BraTS2021_00578_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00426/BraTS2021_00426_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00426/BraTS2021_00426_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00426/BraTS2021_00426_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00426/BraTS2021_00426_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00426/BraTS2021_00426_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01558/BraTS2021_01558_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01558/BraTS2021_01558_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01558/BraTS2021_01558_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01558/BraTS2021_01558_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01558/BraTS2021_01558_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00167/BraTS2021_00167_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00167/BraTS2021_00167_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00167/BraTS2021_00167_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00167/BraTS2021_00167_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00167/BraTS2021_00167_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00300/BraTS2021_00300_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00300/BraTS2021_00300_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00300/BraTS2021_00300_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00300/BraTS2021_00300_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00300/BraTS2021_00300_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00791/BraTS2021_00791_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00791/BraTS2021_00791_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00791/BraTS2021_00791_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00791/BraTS2021_00791_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00791/BraTS2021_00791_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01333/BraTS2021_01333_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01333/BraTS2021_01333_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01333/BraTS2021_01333_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01333/BraTS2021_01333_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01333/BraTS2021_01333_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00000/BraTS2021_00000_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00000/BraTS2021_00000_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00000/BraTS2021_00000_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00000/BraTS2021_00000_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00000/BraTS2021_00000_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01107/BraTS2021_01107_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01107/BraTS2021_01107_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01107/BraTS2021_01107_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01107/BraTS2021_01107_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01107/BraTS2021_01107_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01354/BraTS2021_01354_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01354/BraTS2021_01354_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01354/BraTS2021_01354_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01354/BraTS2021_01354_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01354/BraTS2021_01354_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00570/BraTS2021_00570_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00570/BraTS2021_00570_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00570/BraTS2021_00570_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00570/BraTS2021_00570_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00570/BraTS2021_00570_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00177/BraTS2021_00177_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00177/BraTS2021_00177_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00177/BraTS2021_00177_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00177/BraTS2021_00177_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00177/BraTS2021_00177_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00739/BraTS2021_00739_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00739/BraTS2021_00739_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00739/BraTS2021_00739_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00739/BraTS2021_00739_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00739/BraTS2021_00739_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01003/BraTS2021_01003_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01003/BraTS2021_01003_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01003/BraTS2021_01003_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01003/BraTS2021_01003_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01003/BraTS2021_01003_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01093/BraTS2021_01093_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01093/BraTS2021_01093_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01093/BraTS2021_01093_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01093/BraTS2021_01093_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01093/BraTS2021_01093_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00388/BraTS2021_00388_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00388/BraTS2021_00388_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00388/BraTS2021_00388_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00388/BraTS2021_00388_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00388/BraTS2021_00388_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00605/BraTS2021_00605_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00605/BraTS2021_00605_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00605/BraTS2021_00605_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00605/BraTS2021_00605_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00605/BraTS2021_00605_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01599/BraTS2021_01599_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01599/BraTS2021_01599_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01599/BraTS2021_01599_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01599/BraTS2021_01599_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01599/BraTS2021_01599_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00697/BraTS2021_00697_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00697/BraTS2021_00697_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00697/BraTS2021_00697_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00697/BraTS2021_00697_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00697/BraTS2021_00697_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00430/BraTS2021_00430_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00430/BraTS2021_00430_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00430/BraTS2021_00430_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00430/BraTS2021_00430_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00430/BraTS2021_00430_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00436/BraTS2021_00436_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00436/BraTS2021_00436_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00436/BraTS2021_00436_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00436/BraTS2021_00436_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00436/BraTS2021_00436_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00708/BraTS2021_00708_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00708/BraTS2021_00708_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00708/BraTS2021_00708_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00708/BraTS2021_00708_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00708/BraTS2021_00708_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00799/BraTS2021_00799_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00799/BraTS2021_00799_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00799/BraTS2021_00799_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00799/BraTS2021_00799_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00799/BraTS2021_00799_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01550/BraTS2021_01550_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01550/BraTS2021_01550_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01550/BraTS2021_01550_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01550/BraTS2021_01550_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01550/BraTS2021_01550_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00285/BraTS2021_00285_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00285/BraTS2021_00285_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00285/BraTS2021_00285_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00285/BraTS2021_00285_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00285/BraTS2021_00285_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01249/BraTS2021_01249_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01249/BraTS2021_01249_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01249/BraTS2021_01249_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01249/BraTS2021_01249_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01249/BraTS2021_01249_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00520/BraTS2021_00520_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00520/BraTS2021_00520_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00520/BraTS2021_00520_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00520/BraTS2021_00520_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00520/BraTS2021_00520_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01443/BraTS2021_01443_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01443/BraTS2021_01443_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01443/BraTS2021_01443_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01443/BraTS2021_01443_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01443/BraTS2021_01443_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01192/BraTS2021_01192_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01192/BraTS2021_01192_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01192/BraTS2021_01192_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01192/BraTS2021_01192_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01192/BraTS2021_01192_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00152/BraTS2021_00152_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00152/BraTS2021_00152_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00152/BraTS2021_00152_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00152/BraTS2021_00152_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00152/BraTS2021_00152_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00495/BraTS2021_00495_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00495/BraTS2021_00495_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00495/BraTS2021_00495_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00495/BraTS2021_00495_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00495/BraTS2021_00495_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01142/BraTS2021_01142_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01142/BraTS2021_01142_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01142/BraTS2021_01142_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01142/BraTS2021_01142_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01142/BraTS2021_01142_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01336/BraTS2021_01336_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01336/BraTS2021_01336_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01336/BraTS2021_01336_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01336/BraTS2021_01336_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01336/BraTS2021_01336_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00718/BraTS2021_00718_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00718/BraTS2021_00718_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00718/BraTS2021_00718_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00718/BraTS2021_00718_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00718/BraTS2021_00718_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00537/BraTS2021_00537_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00537/BraTS2021_00537_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00537/BraTS2021_00537_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00537/BraTS2021_00537_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00537/BraTS2021_00537_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01627/BraTS2021_01627_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01627/BraTS2021_01627_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01627/BraTS2021_01627_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01627/BraTS2021_01627_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01627/BraTS2021_01627_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00238/BraTS2021_00238_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00238/BraTS2021_00238_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00238/BraTS2021_00238_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00238/BraTS2021_00238_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00238/BraTS2021_00238_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01161/BraTS2021_01161_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01161/BraTS2021_01161_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01161/BraTS2021_01161_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01161/BraTS2021_01161_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01161/BraTS2021_01161_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00533/BraTS2021_00533_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00533/BraTS2021_00533_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00533/BraTS2021_00533_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00533/BraTS2021_00533_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00533/BraTS2021_00533_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00259/BraTS2021_00259_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00259/BraTS2021_00259_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00259/BraTS2021_00259_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00259/BraTS2021_00259_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00259/BraTS2021_00259_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00789/BraTS2021_00789_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00789/BraTS2021_00789_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00789/BraTS2021_00789_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00789/BraTS2021_00789_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00789/BraTS2021_00789_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00409/BraTS2021_00409_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00409/BraTS2021_00409_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00409/BraTS2021_00409_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00409/BraTS2021_00409_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00409/BraTS2021_00409_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00254/BraTS2021_00254_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00254/BraTS2021_00254_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00254/BraTS2021_00254_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00254/BraTS2021_00254_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00254/BraTS2021_00254_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01038/BraTS2021_01038_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01038/BraTS2021_01038_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01038/BraTS2021_01038_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01038/BraTS2021_01038_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01038/BraTS2021_01038_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00419/BraTS2021_00419_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00419/BraTS2021_00419_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00419/BraTS2021_00419_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00419/BraTS2021_00419_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00419/BraTS2021_00419_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00454/BraTS2021_00454_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00454/BraTS2021_00454_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00454/BraTS2021_00454_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00454/BraTS2021_00454_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00454/BraTS2021_00454_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01251/BraTS2021_01251_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01251/BraTS2021_01251_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01251/BraTS2021_01251_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01251/BraTS2021_01251_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01251/BraTS2021_01251_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01119/BraTS2021_01119_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01119/BraTS2021_01119_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01119/BraTS2021_01119_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01119/BraTS2021_01119_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01119/BraTS2021_01119_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00377/BraTS2021_00377_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00377/BraTS2021_00377_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00377/BraTS2021_00377_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00377/BraTS2021_00377_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00377/BraTS2021_00377_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01253/BraTS2021_01253_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01253/BraTS2021_01253_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01253/BraTS2021_01253_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01253/BraTS2021_01253_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01253/BraTS2021_01253_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01437/BraTS2021_01437_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01437/BraTS2021_01437_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01437/BraTS2021_01437_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01437/BraTS2021_01437_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01437/BraTS2021_01437_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00386/BraTS2021_00386_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00386/BraTS2021_00386_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00386/BraTS2021_00386_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00386/BraTS2021_00386_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00386/BraTS2021_00386_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00370/BraTS2021_00370_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00370/BraTS2021_00370_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00370/BraTS2021_00370_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00370/BraTS2021_00370_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00370/BraTS2021_00370_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00045/BraTS2021_00045_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00045/BraTS2021_00045_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00045/BraTS2021_00045_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00045/BraTS2021_00045_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00045/BraTS2021_00045_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01575/BraTS2021_01575_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01575/BraTS2021_01575_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01575/BraTS2021_01575_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01575/BraTS2021_01575_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01575/BraTS2021_01575_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01631/BraTS2021_01631_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01631/BraTS2021_01631_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01631/BraTS2021_01631_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01631/BraTS2021_01631_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01631/BraTS2021_01631_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01582/BraTS2021_01582_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01582/BraTS2021_01582_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01582/BraTS2021_01582_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01582/BraTS2021_01582_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01582/BraTS2021_01582_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01055/BraTS2021_01055_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01055/BraTS2021_01055_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01055/BraTS2021_01055_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01055/BraTS2021_01055_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01055/BraTS2021_01055_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00728/BraTS2021_00728_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00728/BraTS2021_00728_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00728/BraTS2021_00728_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00728/BraTS2021_00728_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00728/BraTS2021_00728_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00402/BraTS2021_00402_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00402/BraTS2021_00402_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00402/BraTS2021_00402_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00402/BraTS2021_00402_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00402/BraTS2021_00402_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01648/BraTS2021_01648_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01648/BraTS2021_01648_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01648/BraTS2021_01648_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01648/BraTS2021_01648_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01648/BraTS2021_01648_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01105/BraTS2021_01105_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01105/BraTS2021_01105_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01105/BraTS2021_01105_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01105/BraTS2021_01105_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01105/BraTS2021_01105_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01011/BraTS2021_01011_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01011/BraTS2021_01011_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01011/BraTS2021_01011_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01011/BraTS2021_01011_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01011/BraTS2021_01011_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00615/BraTS2021_00615_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00615/BraTS2021_00615_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00615/BraTS2021_00615_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00615/BraTS2021_00615_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00615/BraTS2021_00615_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01496/BraTS2021_01496_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01496/BraTS2021_01496_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01496/BraTS2021_01496_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01496/BraTS2021_01496_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01496/BraTS2021_01496_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00809/BraTS2021_00809_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00809/BraTS2021_00809_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00809/BraTS2021_00809_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00809/BraTS2021_00809_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00809/BraTS2021_00809_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01127/BraTS2021_01127_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01127/BraTS2021_01127_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01127/BraTS2021_01127_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01127/BraTS2021_01127_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01127/BraTS2021_01127_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00414/BraTS2021_00414_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00414/BraTS2021_00414_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00414/BraTS2021_00414_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00414/BraTS2021_00414_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00414/BraTS2021_00414_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00800/BraTS2021_00800_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00800/BraTS2021_00800_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00800/BraTS2021_00800_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00800/BraTS2021_00800_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00800/BraTS2021_00800_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00317/BraTS2021_00317_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00317/BraTS2021_00317_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00317/BraTS2021_00317_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00317/BraTS2021_00317_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00317/BraTS2021_00317_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01301/BraTS2021_01301_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01301/BraTS2021_01301_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01301/BraTS2021_01301_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01301/BraTS2021_01301_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01301/BraTS2021_01301_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00557/BraTS2021_00557_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00557/BraTS2021_00557_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00557/BraTS2021_00557_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00557/BraTS2021_00557_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00557/BraTS2021_00557_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00100/BraTS2021_00100_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00100/BraTS2021_00100_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00100/BraTS2021_00100_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00100/BraTS2021_00100_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00100/BraTS2021_00100_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01478/BraTS2021_01478_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01478/BraTS2021_01478_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01478/BraTS2021_01478_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01478/BraTS2021_01478_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01478/BraTS2021_01478_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00338/BraTS2021_00338_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00338/BraTS2021_00338_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00338/BraTS2021_00338_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00338/BraTS2021_00338_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00338/BraTS2021_00338_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00734/BraTS2021_00734_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00734/BraTS2021_00734_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00734/BraTS2021_00734_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00734/BraTS2021_00734_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00734/BraTS2021_00734_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00060/BraTS2021_00060_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00060/BraTS2021_00060_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00060/BraTS2021_00060_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00060/BraTS2021_00060_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00060/BraTS2021_00060_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00802/BraTS2021_00802_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00802/BraTS2021_00802_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00802/BraTS2021_00802_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00802/BraTS2021_00802_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00802/BraTS2021_00802_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00655/BraTS2021_00655_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00655/BraTS2021_00655_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00655/BraTS2021_00655_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00655/BraTS2021_00655_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00655/BraTS2021_00655_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01484/BraTS2021_01484_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01484/BraTS2021_01484_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01484/BraTS2021_01484_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01484/BraTS2021_01484_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01484/BraTS2021_01484_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00764/BraTS2021_00764_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00764/BraTS2021_00764_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00764/BraTS2021_00764_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00764/BraTS2021_00764_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00764/BraTS2021_00764_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01292/BraTS2021_01292_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01292/BraTS2021_01292_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01292/BraTS2021_01292_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01292/BraTS2021_01292_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01292/BraTS2021_01292_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01538/BraTS2021_01538_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01538/BraTS2021_01538_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01538/BraTS2021_01538_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01538/BraTS2021_01538_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01538/BraTS2021_01538_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00322/BraTS2021_00322_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00322/BraTS2021_00322_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00322/BraTS2021_00322_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00322/BraTS2021_00322_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00322/BraTS2021_00322_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00423/BraTS2021_00423_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00423/BraTS2021_00423_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00423/BraTS2021_00423_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00423/BraTS2021_00423_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00423/BraTS2021_00423_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01474/BraTS2021_01474_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01474/BraTS2021_01474_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01474/BraTS2021_01474_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01474/BraTS2021_01474_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01474/BraTS2021_01474_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01304/BraTS2021_01304_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01304/BraTS2021_01304_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01304/BraTS2021_01304_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01304/BraTS2021_01304_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01304/BraTS2021_01304_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01321/BraTS2021_01321_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01321/BraTS2021_01321_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01321/BraTS2021_01321_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01321/BraTS2021_01321_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01321/BraTS2021_01321_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00122/BraTS2021_00122_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00122/BraTS2021_00122_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00122/BraTS2021_00122_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00122/BraTS2021_00122_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00122/BraTS2021_00122_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01058/BraTS2021_01058_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01058/BraTS2021_01058_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01058/BraTS2021_01058_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01058/BraTS2021_01058_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01058/BraTS2021_01058_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01326/BraTS2021_01326_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01326/BraTS2021_01326_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01326/BraTS2021_01326_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01326/BraTS2021_01326_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01326/BraTS2021_01326_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01397/BraTS2021_01397_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01397/BraTS2021_01397_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01397/BraTS2021_01397_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01397/BraTS2021_01397_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01397/BraTS2021_01397_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00196/BraTS2021_00196_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00196/BraTS2021_00196_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00196/BraTS2021_00196_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00196/BraTS2021_00196_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00196/BraTS2021_00196_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00675/BraTS2021_00675_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00675/BraTS2021_00675_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00675/BraTS2021_00675_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00675/BraTS2021_00675_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00675/BraTS2021_00675_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01482/BraTS2021_01482_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01482/BraTS2021_01482_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01482/BraTS2021_01482_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01482/BraTS2021_01482_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01482/BraTS2021_01482_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01194/BraTS2021_01194_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01194/BraTS2021_01194_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01194/BraTS2021_01194_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01194/BraTS2021_01194_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01194/BraTS2021_01194_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00021/BraTS2021_00021_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00021/BraTS2021_00021_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00021/BraTS2021_00021_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00021/BraTS2021_00021_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00021/BraTS2021_00021_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01351/BraTS2021_01351_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01351/BraTS2021_01351_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01351/BraTS2021_01351_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01351/BraTS2021_01351_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01351/BraTS2021_01351_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00309/BraTS2021_00309_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00309/BraTS2021_00309_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00309/BraTS2021_00309_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00309/BraTS2021_00309_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00309/BraTS2021_00309_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01464/BraTS2021_01464_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01464/BraTS2021_01464_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01464/BraTS2021_01464_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01464/BraTS2021_01464_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01464/BraTS2021_01464_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01216/BraTS2021_01216_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01216/BraTS2021_01216_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01216/BraTS2021_01216_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01216/BraTS2021_01216_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01216/BraTS2021_01216_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01398/BraTS2021_01398_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01398/BraTS2021_01398_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01398/BraTS2021_01398_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01398/BraTS2021_01398_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01398/BraTS2021_01398_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00613/BraTS2021_00613_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00613/BraTS2021_00613_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00613/BraTS2021_00613_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00613/BraTS2021_00613_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00613/BraTS2021_00613_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00378/BraTS2021_00378_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00378/BraTS2021_00378_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00378/BraTS2021_00378_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00378/BraTS2021_00378_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00378/BraTS2021_00378_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01363/BraTS2021_01363_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01363/BraTS2021_01363_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01363/BraTS2021_01363_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01363/BraTS2021_01363_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01363/BraTS2021_01363_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00683/BraTS2021_00683_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00683/BraTS2021_00683_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00683/BraTS2021_00683_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00683/BraTS2021_00683_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00683/BraTS2021_00683_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00540/BraTS2021_00540_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00540/BraTS2021_00540_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00540/BraTS2021_00540_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00540/BraTS2021_00540_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00540/BraTS2021_00540_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01201/BraTS2021_01201_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01201/BraTS2021_01201_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01201/BraTS2021_01201_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01201/BraTS2021_01201_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01201/BraTS2021_01201_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00151/BraTS2021_00151_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00151/BraTS2021_00151_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00151/BraTS2021_00151_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00151/BraTS2021_00151_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00151/BraTS2021_00151_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01340/BraTS2021_01340_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01340/BraTS2021_01340_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01340/BraTS2021_01340_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01340/BraTS2021_01340_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01340/BraTS2021_01340_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00529/BraTS2021_00529_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00529/BraTS2021_00529_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00529/BraTS2021_00529_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00529/BraTS2021_00529_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00529/BraTS2021_00529_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00106/BraTS2021_00106_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00106/BraTS2021_00106_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00106/BraTS2021_00106_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00106/BraTS2021_00106_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00106/BraTS2021_00106_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00364/BraTS2021_00364_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00364/BraTS2021_00364_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00364/BraTS2021_00364_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00364/BraTS2021_00364_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00364/BraTS2021_00364_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01237/BraTS2021_01237_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01237/BraTS2021_01237_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01237/BraTS2021_01237_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01237/BraTS2021_01237_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01237/BraTS2021_01237_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01175/BraTS2021_01175_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01175/BraTS2021_01175_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01175/BraTS2021_01175_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01175/BraTS2021_01175_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01175/BraTS2021_01175_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01411/BraTS2021_01411_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01411/BraTS2021_01411_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01411/BraTS2021_01411_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01411/BraTS2021_01411_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01411/BraTS2021_01411_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01404/BraTS2021_01404_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01404/BraTS2021_01404_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01404/BraTS2021_01404_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01404/BraTS2021_01404_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01404/BraTS2021_01404_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00811/BraTS2021_00811_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00811/BraTS2021_00811_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00811/BraTS2021_00811_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00811/BraTS2021_00811_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00811/BraTS2021_00811_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00599/BraTS2021_00599_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00599/BraTS2021_00599_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00599/BraTS2021_00599_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00599/BraTS2021_00599_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00599/BraTS2021_00599_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01646/BraTS2021_01646_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01646/BraTS2021_01646_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01646/BraTS2021_01646_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01646/BraTS2021_01646_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01646/BraTS2021_01646_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00824/BraTS2021_00824_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00824/BraTS2021_00824_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00824/BraTS2021_00824_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00824/BraTS2021_00824_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00824/BraTS2021_00824_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01229/BraTS2021_01229_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01229/BraTS2021_01229_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01229/BraTS2021_01229_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01229/BraTS2021_01229_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01229/BraTS2021_01229_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01334/BraTS2021_01334_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01334/BraTS2021_01334_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01334/BraTS2021_01334_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01334/BraTS2021_01334_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01334/BraTS2021_01334_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01477/BraTS2021_01477_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01477/BraTS2021_01477_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01477/BraTS2021_01477_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01477/BraTS2021_01477_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01477/BraTS2021_01477_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01394/BraTS2021_01394_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01394/BraTS2021_01394_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01394/BraTS2021_01394_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01394/BraTS2021_01394_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01394/BraTS2021_01394_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00209/BraTS2021_00209_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00209/BraTS2021_00209_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00209/BraTS2021_00209_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00209/BraTS2021_00209_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00209/BraTS2021_00209_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01010/BraTS2021_01010_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01010/BraTS2021_01010_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01010/BraTS2021_01010_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01010/BraTS2021_01010_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01010/BraTS2021_01010_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01353/BraTS2021_01353_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01353/BraTS2021_01353_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01353/BraTS2021_01353_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01353/BraTS2021_01353_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01353/BraTS2021_01353_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01536/BraTS2021_01536_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01536/BraTS2021_01536_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01536/BraTS2021_01536_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01536/BraTS2021_01536_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01536/BraTS2021_01536_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_00444/BraTS2021_00444_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00444/BraTS2021_00444_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00444/BraTS2021_00444_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_00444/BraTS2021_00444_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_00444/BraTS2021_00444_flair_brainmask.nii.gz"
+    },
+    {
+        "image": [
+            "/working/Data/Images/brats_data/BraTS2021_01585/BraTS2021_01585_flair.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01585/BraTS2021_01585_t1.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01585/BraTS2021_01585_t1ce.nii.gz",
+            "/working/Data/Images/brats_data/BraTS2021_01585/BraTS2021_01585_t2.nii.gz"
+        ],
+        "brainmask": "/working/Data/Images/brats_data/BraTS2021_01585/BraTS2021_01585_flair_brainmask.nii.gz"
+    }
+]

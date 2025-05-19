@@ -6,8 +6,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore all JSON files
-*.json
 
 # Ignore all directories with "checkpoint" in the name (any depth)
 **/*checkpoint*/
